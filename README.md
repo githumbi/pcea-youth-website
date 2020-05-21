@@ -1,2 +1,2 @@
 # pcea-youth-website
-responsive website for PCEA church youths
+responsive site for PCEA church youths
